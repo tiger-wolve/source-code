@@ -1,4 +1,6 @@
-# Evil Tiger
-The evil tiger discord bot
-Evil Tiger is a discord bot that would love to share it's code with you 
-Every command's source code is in `server.js`
+# Source Code
+> In order to get source codes click [here](https://glitch.com/edit/#!/source-code)
+
+```md
+[] (YOU WILL GET CODES IN CODEBLOCKS LIKE THIS!)
+```
