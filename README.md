@@ -3,7 +3,7 @@ Welcome to source-code
 
 - This cookie thing provides you **`Discord.js`** source codes in a simple manner in code blocks like 
 
-```
+```js 
 if (command === 'say-hi') {
 message.channel.send ("Hi")
 }
