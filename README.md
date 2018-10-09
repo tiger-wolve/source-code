@@ -11,7 +11,7 @@ message.channel.send ("Hi")
 
 - Plus we allow to copy paste these codes for your bot!
 
-// - To get know how do we markdown like this simply click the **raw** button on the top
+- To get know how do we markdown like this simply click the **raw** button on the top
 
 [![](https://cdn.glitch.com/276c8ad7-cbab-4801-8934-39c03158b0c6%2FPicsArt_08-25-01.13.08.png?1539019422575)](https://discordapp.com/invite/hn5FK2e)
 
