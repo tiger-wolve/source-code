@@ -14,7 +14,7 @@ if (!heck) return message.reply ("Please supply some text to run this command");
 
 let msgch = message.channel;
 send (msgch, heck, {
-name: `${message.member.nickname}`
+name: `${message.user.username}`
 icon: message.author.displayAvatarURL
 });
 }
