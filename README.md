@@ -13,8 +13,7 @@ message.channel.send ("Hi")
 
 - To get know how do we markdown like this simply click the **raw** button on the top
 
-[![](https://cdn.discordapp.com/attachments/448756811533910016/499420830581784587/a_006269e9581f6f913fc48174ecb0c0d6.gif)]
-(https://discordapp.com/invite/hn5FK2e)
+[![](https://cdn.discordapp.com/attachments/448756811533910016/499420830581784587/a_006269e9581f6f913fc48174ecb0c0d6.gif)](https://discordapp.com/invite/hn5FK2e)
 
 ### If you have not joined our Support server you can do it by clicking on the image above!
 
