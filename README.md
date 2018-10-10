@@ -17,6 +17,20 @@ message.channel.send ("Hi")
 
 ### If you have not joined our Support server you can do it by clicking on the image above!
 
+```js
+ ________________________________
+/ I am a honest cow              \
+| and i say that Source-code     |
+| which is owned by Tiger Wolve  |
+\ provides correct codes         /
+ --------------------------------
+        \   ^__^
+         \  (oO)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
 First of all make sure you do not do these things
 -------------------------------------------
 
