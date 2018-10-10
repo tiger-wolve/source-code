@@ -8,7 +8,7 @@ First of all make sure you have installed the `figlet` module if not run `npm i 
 - If the upper thing is done use this code!
 ----
 
-```json
+```js 
 if (command === 'ascii') {
   const figlet = require('figlet'); // npm i figlet
 
