@@ -31,8 +31,8 @@ message.channel.send ("Hi")
                 ||     ||
 ```
 
-#Our Bot (Evil Tiger)
-[![](https://discordbots.org/bot/484333555514605570)](https://discordapp.com/oauth2/authorize?client_id=484333555514605570&scope=bot&permissions=-1)
+#Our Bot ([Evil Tiger](https://discordapp.com/oauth2/authorize?client_id=484333555514605570&scope=bot&permissions=-1))
+![](https://discordbots.org/bot/484333555514605570)
 
 
 First of all make sure you do not do these things
